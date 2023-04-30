@@ -145,3 +145,5 @@ http://190.43.232.72:8000/play/a09o/index.m3u8
 http://190.43.232.72:8000/play/a07r/index.m3u8
 #EXTINF:-1,Warner
 http://190.43.232.72:8000/play/a09e/index.m3u8
+#EXTINF:-1 win+
+https://pro.zorrohd8.xyz/live/STbf43800c9e15d56.m3u8
