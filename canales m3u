@@ -287,5 +287,5 @@ http://45.225.47.100:8000/play/a007
 http://45.225.47.100:8000/play/a012
 #EXTINF:-1,Zona Latina
 http://45.225.47.100:8000/play/a00a
-#EXTINF:-1
+#EXTINF:-1 carlos arias
 https://dtvott-akaws.akamaized.net/live_1035/DASH/stream_06/1682052589109_init.m4i
