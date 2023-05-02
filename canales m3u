@@ -656,3 +656,19 @@ http://138.59.177.34:8000/play/a02a/index.m3u8
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://204.199.132.195:50000/play/a01k/index.m3u8
+#EXTINF:-1,Paramount HD
+http://204.199.132.195:50000/play/a00i/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://204.199.132.195:50000/play/a024/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://204.199.132.195:50000/play/a01g/index.m3u8
+#EXTINF:-1,STAR TVE HD
+http://204.199.132.195:50000/play/a00k/index.m3u8
+#EXTINF:-1,Sony HD
+http://204.199.132.195:50000/play/a02k/index.m3u8
+#EXTINF:-1,Space HD
+http://204.199.132.195:50000/play/a02n/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://204.199.132.195:50000/play/a011/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://204.199.132.195:50000/play/a00j/index.m3u8
